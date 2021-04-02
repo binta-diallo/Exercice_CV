@@ -1,0 +1,118 @@
+/******************première partie*****************/
+  #moncv{
+    height-min:100vh;
+
+  }
+h1{
+  text-align: center;
+}
+
+  #gris{
+    background-color: grey;
+    height:10rem;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  span{
+    color: #0dcaf0;
+    font-size: 1.5rem;
+  }
+  .ligne2{
+    height: 1px;
+    border: solid black 1px;
+  }
+  #bleu{
+    background-color: #0dcaf0;;
+    height:10rem;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  p{
+  font-weight: bold;
+    font-size: 2rem;
+  }
+  /*********************deuxième partie*****************/
+  #bleu1{
+  height: 80px;
+    background-color: #0dcaf0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #gris1{
+    height: 80px;
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+  }
+  h4{
+    font-size: 1.5rem;
+    color: white;
+  }
+  /*********************troisième partie*****************/
+  .profil{
+    font-size: 1rem;
+    text-align: justify;
+  }
+  #gris2{
+    background-color: #e0e2e2;
+  }
+  li{
+    font-size: 1rem;
+    font-weight: bold;
+    list-style-type: none;
+    text-align: justify;
+  }
+  svg{
+    color: #0dcaf0;
+  }
+
+  /**************************quatrième partie********************/
+
+  #bleu3{
+    height: 80px;
+    background-color: #0dcaf0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #gris3{
+    height: 80px;
+    background-color: grey;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .exp{
+    font-size: 1rem;
+    text-align: justify;
+  }
+  .ligne{
+    border: 1px solid #0dcaf0;
+    height: 1px;
+  }
+  h5{
+    text-align: center;
+    padding-top: 20px;
+    font-weight: bold;
+  }
+  .comp{
+    font-size: 1rem;
+    list-style-type:circle;
+    color: #0dcaf0;
+  }
+  #gris4{
+    background-color:#e0e2e2;
+  }
+
+  #form{
+    color: white;
+    background-color: grey;
+    height: 80px;
+  }
